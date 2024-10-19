@@ -25,12 +25,12 @@ This JavaScript project connects to the Google Gemini API to create a simple com
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/your-username/gemini-chatbot-cli.git
    ```
 
 2. **Navigate to the project directory:**
    ```bash
-   cd your-repository-name
+   cd gemini-chatbot-cli
    ```
 
 3. **Install dependencies:**
